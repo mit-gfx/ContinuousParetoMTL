@@ -23,6 +23,12 @@ and
 }
 ```
 
+## Quick Start
+
+Online demos for MultiMNIST and UCI-Census are available in Google Colab! Try them now!
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mit-gfx/ContinuousParetoMTL/blob/colab)
+
 ## Prerequisites
 
 - Ubuntu 16.04 or higher;
