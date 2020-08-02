@@ -11,7 +11,7 @@ class TopTrace(object):
             self,
             num_objs: int,
             *,
-            indent_size: 4,
+            indent_size: int = 4,
         ):
 
         self.tops = [[] for _ in range(num_objs)]
