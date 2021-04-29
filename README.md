@@ -16,11 +16,13 @@ and
 [[Slides]](http://people.csail.mit.edu/pcma/documents/cpmtl/slides.pdf)
 
 ```text
-@inproceedings{ma2020continuous,
+@inproceedings{ma2020efficient,
     title={Efficient Continuous Pareto Exploration in Multi-Task Learning},
     author={Ma, Pingchuan and Du, Tao and Matusik, Wojciech},
     booktitle={International Conference on Machine Learning},
+    pages={6522--6531},
     year={2020},
+    organization={PMLR}
 }
 ```
 
