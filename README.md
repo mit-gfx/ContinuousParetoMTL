@@ -9,11 +9,9 @@ and
 
 **ICML 2020**
 [[Project Page]](http://cpmtl.csail.mit.edu/)
-[[Paper]](http://people.csail.mit.edu/pcma/documents/cpmtl/paper.pdf)
-[[Appendix]](http://people.csail.mit.edu/pcma/documents/cpmtl/supp.pdf)
-[[arXiv]](https://arxiv.org/abs/2006.16434)
+[[Paper]](https://arxiv.org/abs/2006.16434)
 [[Video]](https://icml.cc/virtual/2020/poster/5856)
-[[Slides]](http://people.csail.mit.edu/pcma/documents/cpmtl/slides.pdf)
+[[Slides]](http://cpmtl.csail.mit.edu/data/slides.pdf)
 
 ```text
 @inproceedings{ma2020efficient,
